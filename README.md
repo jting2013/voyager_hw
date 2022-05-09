@@ -1,5 +1,3 @@
-# voyager_hw
-
 In the configuration/config.ini please update github_token, assignees and repo with your own TOKEN and credentials.
 
 What concerns would you have from a testing perspective?

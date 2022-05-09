@@ -1,0 +1,5 @@
+pytest==3.6.3
+pytest-allure-adaptor==1.7.10
+pytest-dependency==0.4.0
+github_sdk>=7.5.99.0,<7.5.100.0
+utils_sdk>=100.0.0.0,<101.0.0.0

@@ -1,0 +1,8 @@
+# INFO     [2022-05-05 14:26:04] test_48999.py        [LINE:45]   {'message': 'Validation Failed', 'errors': ['New branch already exists'], 'documentation_url': 'https://docs.github.com/rest/reference/repos#rename-a-branch'}
+# INFO     [2022-05-05 14:26:04] test_48999.py        [LINE:46]   {
+    "documentation_url": "https://docs.github.com/rest/reference/repos#rename-a-branch",
+    "errors": [
+        "New branch already exists"
+    ],
+    "message": "Validation Failed"
+}
