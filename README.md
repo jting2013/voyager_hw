@@ -1,5 +1,9 @@
 In the configuration/config.ini please update github_token, assignees and repo with your own TOKEN and credentials.
 
+How To Run:
+python main.py
+
+
 What concerns would you have from a testing perspective?
 The amount of endpoints we need to test.  For example get Emojis, what is the backing of this endpoint?  Is it worth testing this.
 Billings and Organizations, do we have the user permission for QA to have?  How much permission for QA account can we have to validate
